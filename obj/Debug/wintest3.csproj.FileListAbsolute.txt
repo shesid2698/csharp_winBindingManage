@@ -1,0 +1,11 @@
+C:\C#\wintest3\bin\Debug\wintest3.exe.config
+C:\C#\wintest3\bin\Debug\wintest3.exe
+C:\C#\wintest3\bin\Debug\wintest3.pdb
+C:\C#\wintest3\obj\Debug\wintest3.csproj.AssemblyReference.cache
+C:\C#\wintest3\obj\Debug\wintest3.csproj.SuggestedBindingRedirects.cache
+C:\C#\wintest3\obj\Debug\wintest3.Form1.resources
+C:\C#\wintest3\obj\Debug\wintest3.Properties.Resources.resources
+C:\C#\wintest3\obj\Debug\wintest3.csproj.GenerateResource.cache
+C:\C#\wintest3\obj\Debug\wintest3.csproj.CoreCompileInputs.cache
+C:\C#\wintest3\obj\Debug\wintest3.exe
+C:\C#\wintest3\obj\Debug\wintest3.pdb
